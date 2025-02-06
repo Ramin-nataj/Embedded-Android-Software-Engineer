@@ -89,6 +89,11 @@ To become an **Embedded Android Software Engineer**, you'll need a combination o
 
 ---
 
+
+
+
+
+
 ### Project Ideas:
 
 - **Beginner Projects**: 
