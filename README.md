@@ -90,6 +90,7 @@ To become an **Embedded Android Software Engineer**, you'll need a combination o
 ---
 
 
+![the _Embedded Android Software Engineer Roadmap_  The roadmap is structured as a flowchart with key milestones and s](https://github.com/user-attachments/assets/533c4434-b124-4211-bc74-dc66e28469e9)
 
 
 
